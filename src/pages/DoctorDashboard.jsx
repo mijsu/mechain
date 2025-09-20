@@ -18,7 +18,7 @@ import {
   CheckCircle,
   Plus
 } from "lucide-react";
-
+// Custom Components
 import DoctorStatsCards from "../components/doctor/DoctorStatsCards";
 import RecentDiagnoses from "../components/doctor/RecentDiagnoses";
 import PatientSummary from "../components/doctor/PatientSummary";
